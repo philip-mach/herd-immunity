@@ -1,4 +1,5 @@
-# herd-immunity
+# herd-immunity [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/philip-mach/herd-immunity/master?filepath=notebooks)
+
 Simple calculation of herd immunity vs. basic reproduction rate R0 (assuming *E*=1, i.e., all who are exposed and recover are immune):
 
 <img src="https://render.githubusercontent.com/render/math?math=P_{herd}=1-\frac{1}{R_0}">
