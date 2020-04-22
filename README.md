@@ -7,11 +7,11 @@ Simple calculation of herd immunity vs. basic reproduction rate *R*<sub>0</sub> 
 Source:
 Paul Fine, Ken Eames, and David L Heymann.  “Herd immunity”: a rough guide. *Clinical Infectious Diseases*, 52(7):911–916, 2011
 
-You can also run my example of what would have happened to the United States had exponential growth continued from 20 March 2020.
+You can also run my example of what would have happened to the United States had exponential growth continued from 20 March 2020; the code to graph doubling time in the US through March is included with that example.
 
 To view or run the Python code, click on **launch binder**, which will open a Jupyter Notebook. This may take a while the first time you do it as the environment must be created. You can edit and rerun within the binder but it has quite a short time out after which you lose any changes.
 
-Once in the binder, you can choose Open… from the File menu and launch “US worst case.ipynb”.
+Once in the binder, you can choose Open… from the File menu and launch “US worst case.ipynb” to find the other examples.
 
 To get best results if you want to modify the code, download to your own machine:
 
